@@ -19,7 +19,6 @@ SecureSuite takes an IP address or domain as input and runs several automated se
 
 ```bash
 git clone https://github.com/RayVader987/SecureSuite.git
-cd SecureSuite
 ```
 ### 2. Set up a Virtual Environment
 ```bash
