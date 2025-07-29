@@ -1,0 +1,20 @@
+SecureSuite Report for testphp.vulnweb.com
+==================================================
+
+[NMAP SCAN RESULTS]
+'nmap' is not recognized as an internal or external command,
+operable program or batch file.
+
+[OSINT INFO]
+WHOIS Info:
+'whois' is not recognized as an internal or external command,
+operable program or batch file.
+
+DNS Info:
+'dig' is not recognized as an internal or external command,
+operable program or batch file.
+
+[WEB VULNERABILITY SCAN]
+Missing X-Frame-Options header (Clickjacking risk)
+Missing Content-Security-Policy header
+
